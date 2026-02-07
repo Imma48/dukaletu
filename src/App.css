@@ -1,0 +1,12 @@
+Bakery Theme Custom Styles :root {
+  --primary-color: #f8b500;
+  --secondary-color: #6d4c41;
+  --accent-color: #d81b60;
+  --light-color: #fff8e1;
+  --dark-color: #3e2723;
+}
+
+body {
+  background-color: #fffaf0;
+  font-family: "Arial", sans-serif;
+}
